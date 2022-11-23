@@ -15,8 +15,12 @@ Interest in this problem decreases as time goes by, but information of missing c
 We intended to solve this problem by providing information of missing children online, mobile application providing convenient user interface so that information of missing children can be easily and quickly checked.
 
 ## 📑 About This Project
- ### ⚙ How it Works?
-  asdfgsasdf
+ ### ⚙ It Provides:
+* 실종자 정보를 [경찰청 안전Dream](www.safe182.go.kr)에서 Backend로 받아옵니다.
+* Backend에 저장된 실종자 정보를 모바일 앱에서 조회할 수 있습니다.
+* 앱에서 본 실종자를 내가 찾은 것 같다면, 실종자를 찾았다고 제보할 수 있습니다.
+* 기타등등
+*
   
   
 ## 📲 How to Install?
