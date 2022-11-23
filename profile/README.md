@@ -21,14 +21,21 @@ We intended to solve this problem by providing information of missing children o
 * 앱에서 본 실종자를 내가 찾은 것 같다면, 실종자를 찾았다고 제보할 수 있습니다.
 * 기타등등
 *
-  
-  
+
 ## 📲 How to Install?
 ### 📱 Mobile App
+* 여기에 내용 입력
+*
+*
 ### ☁️ Backend Server
+* 여기에 내용 입력
+*
+*
 ### 🌐 Frontend Web for Administrator
-  
-  
+* 여기에 내용 입력
+*
+*
+
 ## 🧩 How to Use?
 ### 📱 Mobile App
 * 앱을 처음 실행하면, 실종자와 실종자의 일부 정보(이름, 사진)가 목록으로 나옵니다.
@@ -37,15 +44,11 @@ We intended to solve this problem by providing information of missing children o
   + 이 실종자를 본 것 같다면, 오른쪽 상단의 [제보] 버튼을 눌러 제보할 수 있습니다.
   
 ### 🌐 Frontend Web for Administrator
-* 실종자 정보를 [경찰청 안전Dream](www.safe182.go.kr)에서 Backend로 받아옵니다.
-* Backend에 저장된 실종자 정보를 모바일 앱에서 조회할 수 있습니다.
-* 앱에서 본 실종자를 내가 찾은 것 같다면, 실종자를 찾았다고 제보할 수 있습니다.
-* 기타등등
+* 여기에 내용 입력
 *
-  
-  
- 
- ## 🧑‍💻 Project Members
+
+
+## 🧑‍💻 Project Members
  
  <div align="center">
 
