@@ -23,15 +23,15 @@ We intended to solve this problem by providing information of missing children o
 *
 
 ## 📲 How to Install?
-### 📱 Mobile App
+### 📱 [Mobile App](https://github.com/oss-talkative/missing-mobile)
 * 여기에 내용 입력
 *
 *
-### ☁️ Backend Server
+### ☁️ [Backend Server](https://github.com/oss-talkative/missing-backend)
 * 여기에 내용 입력
 *
 *
-### 🌐 Frontend Web for Administrator
+### 🌐 [Frontend Web for Administrator](https://github.com/oss-talkative/missing-web)
 * 여기에 내용 입력
 *
 *
