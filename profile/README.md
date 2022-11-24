@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
- # 🚸 talkative_missing
+ # 🚸 실종자 온라인 제보 서비스
 
  > [Go to Mobile App Wireframe](https://www.figma.com/file/1LDEezi20v0pq4uhQ36X0y/OSS-MissingChild?node-id=0%3A1&t=VmkG4pbSwEEjSnH7-1) Icons used in this wireframe are licensed under Apache 2.0 license.
  > 
@@ -19,7 +19,7 @@ We intended to solve this problem by providing information of missing children o
 * 실종자 정보를 [경찰청 안전Dream](www.safe182.go.kr)에서 Backend로 받아옵니다.
 * Backend에 저장된 실종자 정보를 모바일 앱에서 조회할 수 있습니다.
 * 앱에서 본 실종자를 내가 찾은 것 같다면, 실종자를 찾았다고 제보할 수 있습니다.
-* 기타등등
+* 관리자용 Web에서 제보된 내역을 조회할 수 있습니다.
 *
 
 ## 📲 How to Install?
@@ -40,8 +40,9 @@ We intended to solve this problem by providing information of missing children o
 ### 📱 Mobile App
 * 앱을 처음 실행하면, 실종자와 실종자의 일부 정보(이름, 사진)가 목록으로 나옵니다.
 * \> 아이콘을 눌러 실종자에 대한 상세 정보를 볼 수 있습니다.
-  + 실종자의 실종일시, 실종장소, 나이, ...
+  + 실종자의 실종일시, 실종장소, 나이, 키, 인상착의 등...
   + 이 실종자를 본 것 같다면, 오른쪽 상단의 [제보] 버튼을 눌러 제보할 수 있습니다.
+* 오른쪽 아래의 주황색 버튼을 눌러 실종 신고를 할 수 있습니다.
   
 ### 🌐 Frontend Web for Administrator
 * 여기에 내용 입력
@@ -52,9 +53,8 @@ We intended to solve this problem by providing information of missing children o
  
  <div align="center">
 
-```
-말 많은 하늘과 같은 사람들
-```
+
+### 🌫️ 말 많은 하늘과 같은 사람들 🌫️
   
  |<img src="https://avatars.githubusercontent.com/u/72238126?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/65147869?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/95032287?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/112372174?v=4" width="80">|
 |:---:|:---:|:---:|:---:|
