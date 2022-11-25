@@ -61,9 +61,19 @@ flutter run --release
 <br>
 
 ### 🌐 [Web Front-End](https://github.com/oss-talkative/missing-web)
-* 여기에 내용 입력
-*
-*
+
+<br>
+
+> Install react [here](https://reactjs-kr.firebaseapp.com/docs/installation.html)
+
+### 1. Git clone
+```shell
+git clone https://github.com/oss-talkative/missing-web
+```
+### 2. Open web page
+```shell
+npm start
+```
 
 <br>
 
