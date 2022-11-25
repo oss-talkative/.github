@@ -27,10 +27,12 @@ We intended to solve this problem by providing information of missing children o
 * 여기에 내용 입력
 *
 *
-### ☁️ [Backend Server](https://github.com/oss-talkative/missing-backend)
-* 여기에 내용 입력
-*
-*
+### ☁️ [Backend Server](https://github.com/oss-talkative/missing-backend-re)
+* (IDE는 visual studio code를 사용하고, git은 설치가 되어있다는 가정하에 진행)
+* 다운을 받을 폴더로 이동하여 consol(cmd또는 git bash 등)에 `git clone https://github.com/oss-talkative/missing-backend-re`
+* `cd missing-backend-re`를 통하여 다운 받은 폴더로 이동
+* 
+* 
 ### 🌐 [Frontend Web for Administrator](https://github.com/oss-talkative/missing-web)
 * 여기에 내용 입력
 *
