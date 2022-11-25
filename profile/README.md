@@ -19,6 +19,7 @@
 * 경찰청에 등록된 실종자 발견시, 앱에서 바로 실종자 발견 제보를 할 수 있습니다.
 * 제보된 실종자 발견 신고 내용은 서비스의 어드민 웹페이지에서 확인할 수 있습니다.
 * 신규 실종자 발생 시, 앱에서 바로 신고하여 Open API를 통해 실제 경찰청에 실종자 신고를 할 수 있습니다.
+* 🔎<https://missingChild.pythonanywhere.com> 통하여 발견접수된 실종자 리스트를 확인 가능합니다.
 
 <br>
 
@@ -52,11 +53,35 @@ flutter run --release
 <br>
 
 ### ☁️ [Back-End Server](https://github.com/oss-talkative/missing-backend-re)
-* (IDE는 visual studio code를 사용하고, git은 설치가 되어있다는 가정하에 진행)
-* 다운을 받을 폴더로 이동하여 consol(cmd또는 git bash 등)에 `git clone https://github.com/oss-talkative/missing-backend-re`
-* `cd missing-backend-re`를 통하여 다운 받은 폴더로 이동
-* 
-* 
+> You need to install [python3.10](https://www.python.org/downloads/release/python-3100/) and [git](https://git-scm.com/) on your environment before following next step.
+### 1. Git clone
+```shell
+git clone https://github.com/oss-talkative/missing-backend-re
+```
+### 2. Open project & create virtual environment
+> open project and terminal(git bash)
+for Window os
+```shell
+python -m venv <name of virtual environment>
+source <name of virtual environment>/Scripts/Activate
+for Window mac
+```shell
+python -m venv <name of virtual environment>
+source <name of virtual environment>/Scripts/Activate
+```
+### 3. migrate for DB
+```shell
+cd myproject
+cd myproject
+python manage.py makemigrations
+python manage.py migrate
+```
+### 3. run server
+```shell
+python manage.py runserver
+```
+### 4. go into the local web
+> Enter `http://localhost:8000/` into your web browser
 
 <br>
 
